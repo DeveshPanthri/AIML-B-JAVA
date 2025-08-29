@@ -1,6 +1,8 @@
+package UNIT_1;
+
 public class MyMain {
     public static void main(String[] args) {
-//        student s1=new student();//noramal method
+//        UNIT_1.student s1=new UNIT_1.student();//noramal method
 //               s1.name="Devesh";
 //        s1.roll_no=80;
 
